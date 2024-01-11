@@ -1,0 +1,70 @@
+
+
+body {
+	background-color: white;
+	text-align: center;
+	font-family: sans-serif;
+}
+body {
+	background-size: cover;
+	background-image: url(background3.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+table {
+ 	width:100%;
+ 	height:100%;
+ 	border-color: #987067;
+ }
+	table,th,td {
+	    	margin-left: auto;
+	    	margin-right: auto;
+	    	border: 10px ridge #987067;
+	    	padding: 10px;
+	    	border-color: #d76228;
+	        background-color: white
+	    	}
+
+	    	h3 {
+	    		letter-spacing: 13px;
+
+	    	}
+
+	    	td {
+	    		letter-spacing: 3px;
+	    		background-color: white;
+	    	}
+
+
+	    	th {
+	    		letter-spacing: 8px;
+	    		background-color: #d0622f;
+	    	}
+
+	 div {
+	padding: 1px;
+	margin: 50px;
+	border:	solid 10px black;
+	text-align: center;
+	color: black;
+	background-color: #d0622f;
+	letter-spacing: 10px;
+	width: 100%
+
+	}
+	img {
+		border: 10px;
+	}
+	div {
+		font-family: serif;
+	}
+
+#meals {
+	color: gold;
+}
+
+#dessna {
+	color: white;
+}
+
